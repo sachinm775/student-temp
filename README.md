@@ -1,5 +1,5 @@
 # student-temp
-<b>This is my first git projects<u>
+<b>This is my first git projects
 <br>
 pesitm
 <br>
