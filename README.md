@@ -1,8 +1,8 @@
 # student-temp
 <b>This is my first git projects</b>
 <br>
-pesitm
+<li>pesitm</li>
 <br>
-<ul><li>your work</li>
+<li>your work</li>
 
 
